@@ -1,6 +1,9 @@
 # Azure - Deploy a Quarkus application to Azure Container Apps 
 https://learn.microsoft.com/en-us/training/modules/deploy-java-quarkus-azure-container-app-postgres/1-introduction
 
+# Colima and Docker on macos with Testcontainers for Java
+https://java.testcontainers.org/supported_docker_environment/#colima
+
 # todo
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
